@@ -1,0 +1,6 @@
+{
+  "ServerUrl": "https://gitlab.sample.com",
+  "Username": "USER",
+  "Password": "PASS",
+  "Token": "_Token"
+}
